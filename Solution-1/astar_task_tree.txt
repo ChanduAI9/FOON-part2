@@ -1,0 +1,20 @@
+Task Tree:
+o stove
+s on
+s in frying pan
+o frying pan
+s hot
+s contains olive oilbutteregg
+s in stove
+o egg
+s beaten
+s uncooked
+s contains black peppersalt
+s in frying pan
+o spatula
+m cook and stir
+o omelette
+s mixed
+s partly cooked
+s contains olive oilbuttereggblack peppersalt
+s in frying pan
